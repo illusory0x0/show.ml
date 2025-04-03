@@ -1,4 +1,4 @@
 (executable
- (public_name template)
+ (public_name main)
  (name main)
- (libraries template))
+ (libraries show))
